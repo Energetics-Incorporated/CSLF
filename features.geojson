@@ -1,0 +1,56 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fort Nelson Carbon Capture and Storage Project",
+        "lead_nominator": "Canada",
+        "nominator": "USA",
+        "status": "active"
+      },
+      "geometry": {
+        "coordinates": [
+          -127.049352,
+          56.873348
+        ],
+        "type": "Point"
+      },
+      "id": "442d269c80aa1a9ad53f11c7c4ff3418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zama Acid Gas EOR, CO2 Sequestration, and Monitoring Project",
+        "lead_nominator": "Canada",
+        "nominator": "USA",
+        "status": "active"
+      },
+      "geometry": {
+        "coordinates": [
+          -125.715897,
+          55.320714
+        ],
+        "type": "Point"
+      },
+      "id": "532e12e0cf7072cbd6dee5e66480d8ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Regional Opportunities for CO2 Capture and Storage in China (Project Completed)",
+        "lead_nominator": "United States",
+        "nominator": "China",
+        "status": "active"
+      },
+      "geometry": {
+        "coordinates": [
+          115.914483,
+          40.43528
+        ],
+        "type": "Point"
+      },
+      "id": "c0f64e1fc4b2d64742349857606fbf3e"
+    }
+  ],
+  "type": "FeatureCollection"
+}
