@@ -6,7 +6,8 @@
         "title": "Fort Nelson Carbon Capture and Storage Project",
         "lead_nominator": "Canada",
         "nominator": "USA",
-        "status": "active"
+        "status": "active",
+        "url": "https://www.cslforum.org/cslf/Projects/Summaries#FortNelson"
       },
       "geometry": {
         "coordinates": [
@@ -23,7 +24,8 @@
         "title": "Zama Acid Gas EOR, CO2 Sequestration, and Monitoring Project",
         "lead_nominator": "Canada",
         "nominator": "USA",
-        "status": "active"
+        "status": "active",
+        "url": "https://www.cslforum.org/cslf/Projects/Summaries#Zama"
       },
       "geometry": {
         "coordinates": [
@@ -40,7 +42,8 @@
         "title": "Regional Opportunities for CO2 Capture and Storage in China (Project Completed)",
         "lead_nominator": "United States",
         "nominator": "China",
-        "status": "active"
+        "status": "completed",
+        "url": "https://www.cslforum.org/cslf/Projects/Summaries#RegionalOpps"
       },
       "geometry": {
         "coordinates": [
