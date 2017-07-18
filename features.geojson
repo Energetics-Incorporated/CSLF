@@ -57,6 +57,24 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Al Reyadah CCUS Project",
+        "status": "active",
+        "url": "https://www.cslforum.org/cslf/Projects/AlReyadah",
+        "lead_nominator": "United Arab Emirates",
+        "nominator": "Australia, Canada, China, Netherlands, Norway, Saudi Arabia, South Africa, United Kingdom, and United States"
+      },
+      "geometry": {
+        "coordinates": [
+          54.507772,
+          24.352707
+        ],
+        "type": "Point"
+      },
+      "id": "207db7f358ac0ad42e79a8de31d7696e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "CO2CRC Otway Project",
         "lead_nominator": "Australia",
         "nominator": "United States",
@@ -561,6 +579,24 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "National Risk Assessment Partnership (NRAP)",
+        "lead_nominator": "United States",
+        "nominator": "Australia, China, and France",
+        "url": "https://www.cslforum.org/cslf/Projects/NRAP",
+        "status": "active"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.917917,
+          40.445946
+        ],
+        "type": "Point"
+      },
+      "id": "8a5dbac7f19a083b02f87e6d18456d5f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Illinois Basin – Decatur Project",
         "lead_nominator": "United States",
         "nominator": "United Kingdom",
@@ -755,6 +791,24 @@
         "type": "Point"
       },
       "id": "c0f64e1fc4b2d64742349857606fbf3e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CCSI/CCSI2",
+        "lead_nominator": "United States",
+        "nominator": " China, France, and Norway",
+        "url": "https://www.cslforum.org/cslf/Projects/CCSI-CCSi2",
+        "status": "active"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.984086,
+          40.458534
+        ],
+        "type": "Point"
+      },
+      "id": "c67fdf055b3cca6a8b9b66431f340bcd"
     },
     {
       "type": "Feature",
