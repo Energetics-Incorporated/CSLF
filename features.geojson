@@ -687,7 +687,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CANMET Energy Technology Centre (CETC) R&D Oxyfuel Combustion for CO2 Capture (Project Completed)",
+        "title": "CANMET Energy Oxyfuel Project (Project Completed)",
         "lead_nominator": "Canada",
         "nominator": "United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CANMET",
@@ -741,11 +741,11 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "SECARB Phase III Anthropogenic Test and Plant Barry CCS Project",
+        "title": "Plant Barry Integrated CCS Project",
         "lead_nominator": "United States",
         "nominator": "Canada",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#SECARBPhaseIII",
-        "status": "active"
+        "status": "completed"
       },
       "geometry": {
         "coordinates": [
