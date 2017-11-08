@@ -471,24 +471,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rotterdam Opslag en Afvang Demonstratieproject (ROAD)",
-        "lead_nominator": "Netherlands",
-        "nominator": "European Commission",
-        "url": "https://www.cslforum.org/cslf/Projects/Summaries#RotterdamOpslag",
-        "status": "active"
-      },
-      "geometry": {
-        "coordinates": [
-          6.045336,
-          52.592109
-        ],
-        "type": "Point"
-      },
-      "id": "6c6d009ab505d03de79fd517619a2e1c"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "NET Power 50 MWth Allam Cycle Demonstration Project",
         "lead_nominator": "United States",
         "nominator": "Japan, Saudi Arabia, and the United States",
@@ -543,8 +525,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Norcem CO2 Capture Project",
-        "lead_nominator": "Norway",
+        "title": "Norcem CO2 Capture Project (Project Completed)",
+        "lead_nominator": "United States",
         "nominator": "Germany",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#Norcem",
         "status": "completed"
@@ -615,8 +597,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gorgon CO2 Injection Project",
-        "lead_nominator": "Norway",
+        "title": "Gorgon CO2 Injection Project (Project Completed)",
+        "lead_nominator": "United States",
         "nominator": "European Commission",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CO2STORE",
         "status": "completed"
@@ -741,7 +723,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Plant Barry Integrated CCS Project",
+        "title": "Plant Barry Integrated CCS Project (Project Completed)",
         "lead_nominator": "United States",
         "nominator": "Canada",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#SECARBPhaseIII",
@@ -867,8 +849,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CO2 Field Lab Project",
-        "lead_nominator": "Norway",
+        "title": "CO2 Field Lab Project (Project Completed)",
+        "lead_nominator": "United States",
         "nominator": "France, and United Kingdom",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CO2Field",
         "status": "completed"
