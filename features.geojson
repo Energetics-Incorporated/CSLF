@@ -93,10 +93,10 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ketzin Test Site Project (formerly CO2 SINK) (Project Completed)",
+        "title": "Ketzin Pilot Injection and Storage Site Project (Project Completed)",
         "lead_nominator": "European Commission",
         "nominator": "Germany",
-        "url": "https://www.cslforum.org/cslf/Projects/Summaries#Ketzin",
+        "url": "https://www.cslforum.org/cslf/Projects/Ketzin",
         "status": "completed"
       },
       "geometry": {
