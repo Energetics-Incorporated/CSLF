@@ -3,8 +3,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gorgon CO2 Injection Project",
-        "lead_nominator": "Australia",
+        "title": "Gorgon Carbon Dioxide (CO2) Injection Project",
+        "lead_nominator": "Canada",
         "nominator": "Canada, and United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#Gorgon",
         "status": "active"
@@ -21,7 +21,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Dry Solid Sorbent CO2 Capture Project",
+        "title": "Dry Solid Sorbent Carbon Dioxide (CO2) Capture Project",
         "lead_nominator": "Korea",
         "nominator": "United Kingdom",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#DrySolid",
@@ -39,7 +39,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Uthmaniyah CO2-EOR Demonstration Project",
+        "title": "Uthmaniyah Carbon Dioxide Enhanced Oil Recovery (CO2-EOR) Demonstration Project",
         "lead_nominator": "Saudi Arabia",
         "nominator": "United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#Uthmaniyah",
@@ -57,11 +57,11 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Al Reyadah CCUS Project",
+        "title": "Al Reyadah Carbon Capture, Use, and Storage (CCUS) Project",
         "status": "active",
         "url": "https://www.cslforum.org/cslf/Projects/AlReyadah",
         "lead_nominator": "United Arab Emirates",
-        "nominator": "Australia, Canada, China, Netherlands, Norway, Saudi Arabia, South Africa, United Kingdom, and United States"
+        "nominator": "active"
       },
       "geometry": {
         "coordinates": [
@@ -93,9 +93,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ketzin Pilot Injection and Storage Site Project (Project Completed)",
-        "lead_nominator": "European Commission",
-        "nominator": "Germany",
+        "title": "Ketzin Pilot Injection and Storage Site (Project Completed)",
+        "lead_nominator": "Norway",
+        "nominator": "European Commission",
         "url": "https://www.cslforum.org/cslf/Projects/Ketzin",
         "status": "completed"
       },
@@ -111,7 +111,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CO2 GeoNet",
+        "title": "CO2GeoNet",
         "lead_nominator": "European Commission",
         "nominator": "United Kingdom",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CO2GeoNet",
@@ -129,7 +129,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CGS Europe Project (Project Completed)",
+        "title": "Carbon Dioxide Geologic Storage (CGS) Europe Project (Project Completed)",
         "lead_nominator": "France",
         "nominator": "Italy, Norway, and the European Commission",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CGSEurope",
@@ -147,7 +147,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "ENCAP (Project Completed)",
+        "title": "ENhanced CAPture of Carbon Dioxide (ENCAP) (Project Completed)",
         "lead_nominator": "European Commission",
         "nominator": "France, and Germany",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#ENCAP",
@@ -165,7 +165,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CO2 Capture Project, Phase 4",
+        "title": "Carbon Dioxide (CO2) Capture Project - Phase 3 (Project Completed)",
         "lead_nominator": "United Kingdom",
         "nominator": "United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CO2CapturePhase4",
@@ -185,8 +185,8 @@
       "properties": {
         "title": "Alberta Enhanced Coal-Bed Methane Recovery Project (Project Completed)",
         "lead_nominator": "Canada",
-        "nominator": "United States, and United Kingdom",
-        "url": "https://www.cslforum.org/cslf/Projects/Summaries#AlbertaCoalBed",
+        "nominator": "United Kingdom, and United States",
+        "url": "https://www.cslforum.org/cslf/Projects/Summaries#Quest",
         "status": "completed"
       },
       "geometry": {
@@ -219,8 +219,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Jingbian CCS Project",
-        "lead_nominator": "China",
+        "title": "Jingbian Carbon Capture and Storage (CCS) Project",
+        "lead_nominator": "Canada",
         "nominator": "Australia",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#Jingbian",
         "status": "active"
@@ -257,7 +257,7 @@
       "properties": {
         "title": "Fort Nelson Carbon Capture and Storage Project",
         "lead_nominator": "Canada",
-        "nominator": "USA",
+        "nominator": "United States",
         "status": "active",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#FortNelson"
       },
@@ -273,7 +273,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Tomakomai CCS Demonstration Project",
+        "title": "Tomakomai Carbon Capture and Storage (CCS) Demonstration Project",
         "lead_nominator": "Japan",
         "nominator": "Australia, Canada, France, Norway, Saudi Arabia, the United Kingdom, and the United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#Tomakomai",
@@ -309,7 +309,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Oxy-Combustion of Heavy Liquid Fuels Project",
+        "title": "Uthmaniyah Carbon Dioxide Enhanced Oil Recovery (CO2-EOR) Demonstration Project",
         "lead_nominator": "Saudi Arabia",
         "nominator": "United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#OxyCombustion",
@@ -330,7 +330,7 @@
         "title": "Alberta Carbon Trunk Line",
         "lead_nominator": "Canada",
         "nominator": "United States",
-        "url": "https://www.cslforum.org/cslf/Projects/Summaries#AlbertaCarbonTrunk",
+        "url": "https://www.cslforum.org/cslf/Projects/Summaries#DrySolid",
         "status": "active"
       },
       "geometry": {
@@ -381,7 +381,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Zama Acid Gas EOR, CO2 Sequestration, and Monitoring Project",
+        "title": "Zama Acid Gas Enhanced Oil Recovery Carbon Dioxide Sequestration and Monitoring Project",
         "lead_nominator": "Canada",
         "nominator": "USA",
         "status": "active",
@@ -399,9 +399,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "IEA GHG Weyburn-Midale CO2 Monitoring and Storage Project (Project Completed)",
-        "lead_nominator": "Canada and United States",
-        "nominator": "Japan",
+        "title": "International Energy Agency Greenhouse Gas (IEA GHG) Programme Weyburn-Midale Carbon Dioxide (CO2) Monitoring and Storage Project (Project Completed)",
+        "lead_nominator": "Canada",
+        "nominator": "United States (also a lead nominator) and Japan",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#IEAGHGWeyburn",
         "status": "completed"
       },
@@ -417,7 +417,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Geologic CO2 Storage Assurance at in Salah, Algeria (project located in Algeria",
+        "title": "Geologic Carbon Dioxide (CO2) Storage Assurance at in Salah, Algeria",
         "lead_nominator": "United Kingdom",
         "nominator": "Norway",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#Geologic",
@@ -435,7 +435,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "China Coalbed Methane Technology/CO2 Sequestration Project (Project Completed)",
+        "title": "China Coalbed Methane Technology/Carbon Dioxide (CO2) Sequestration Project (Project Completed)",
         "lead_nominator": "Canada",
         "nominator": "United States, and China",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#ChinaCoalbedMethane",
@@ -471,7 +471,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "NET Power 50 MWth Allam Cycle Demonstration Project",
+        "title": "NET Power 50 Megawatts thermal (MWth) Allam Cycle Demonstration Project",
         "lead_nominator": "United States",
         "nominator": "Japan, Saudi Arabia, and the United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#NETPower",
@@ -489,7 +489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Quest CCS Project",
+        "title": "Quest Carbon Capture and Storage (CCS) Project",
         "lead_nominator": "Canada",
         "nominator": "United Kingdom, and United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#Quest",
@@ -525,8 +525,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Norcem CO2 Capture Project (Project Completed)",
-        "lead_nominator": "United States",
+        "title": "Norcem Carbon Dioxode (CO2) Capture Project (Project Completed)",
+        "lead_nominator": "Norway",
         "nominator": "Germany",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#Norcem",
         "status": "completed"
@@ -561,7 +561,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "National Risk Assessment Partnership (NRAP)",
+        "title": "National Risk Assessment Partnership",
         "lead_nominator": "United States",
         "nominator": "Australia, China, and France",
         "url": "https://www.cslforum.org/cslf/Projects/NRAP",
@@ -597,8 +597,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gorgon CO2 Injection Project (Project Completed)",
-        "lead_nominator": "United States",
+        "title": "Carbon Dioxide (CO2) STORE (Project Completed)",
+        "lead_nominator": "Norway",
         "nominator": "European Commission",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CO2STORE",
         "status": "completed"
@@ -615,9 +615,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Carbon Capture and Utilization Project / CO2 Network Project",
+        "title": "Carbon Capture and Utilization Project / Carbon Dioxide (CO2) Network Project",
         "lead_nominator": "Saudi Arabia",
-        "nominator": "South Africa",
+        "nominator": "Australia, China, and France",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CarbonCapture",
         "status": "active"
       },
@@ -651,7 +651,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CO2 Capture Project - Phase 3 (Project Completed)",
+        "title": "Carbon Dioxide (CO2) Capture Project - Phase 3 (Project Completed)",
         "lead_nominator": "United Kingdom",
         "nominator": "United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CO2CapturePhase3",
@@ -669,7 +669,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CANMET Energy Oxyfuel Project (Project Completed)",
+        "title": "CANMET Energy Oxy-fuel Project (Project Completed)",
         "lead_nominator": "Canada",
         "nominator": "United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CANMET",
@@ -687,7 +687,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CO2 Technology Centre Mongstad Project (formerly European CO2 Technology Centre Mongstad Project)",
+        "title": "Carbon Dioxide (CO2) Technology Centre Mongstad (TCM) Project (formerly European CO2 Technology Centre Mongstad Project)",
         "lead_nominator": "Norway",
         "nominator": "Netherlands",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CO2Technology",
@@ -706,7 +706,7 @@
       "type": "Feature",
       "properties": {
         "title": "Michigan Basin Development Phase Project",
-        "lead_nominator": "United States",
+        "lead_nominator": "Canada",
         "nominator": "Japan, and Canada",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#MRCSP",
         "status": "active"
@@ -723,9 +723,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Plant Barry Integrated CCS Project (Project Completed)",
+        "title": "Plant Barry Integrated Carbon Capture and Storage (CCS) Project (Project Completed)",
         "lead_nominator": "United States",
-        "nominator": "Canada",
+        "nominator": "Japan, and Canada",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#SECARBPhaseIII",
         "status": "completed"
       },
@@ -741,7 +741,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Air Products CO2 Capture from Hydrogen Facility Project",
+        "title": "Air Products Carbon Dioxide (CO2) Capture from Hydrogen Facility Project",
         "lead_nominator": "United States",
         "nominator": "Netherlands, and United Kingdom",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#AirProducts",
@@ -759,7 +759,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Regional Opportunities for CO2 Capture and Storage in China (Project Completed)",
+        "title": "Regional Opportunities for Carbon Dioxide (CO2) Capture and Storage in China (Project Completed)",
         "lead_nominator": "United States",
         "nominator": "China",
         "status": "completed",
@@ -777,8 +777,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CCSI/CCSI2",
-        "lead_nominator": "United States",
+        "title": "Carbon Capture Simulation Initiative/Carbon Capture Simulation for Industry Impact (CCSI/CCSI2)",
+        "lead_nominator": "Korea",
         "nominator": " China, France, and Norway",
         "url": "https://www.cslforum.org/cslf/Projects/CCSI-CCSi2",
         "status": "active"
@@ -795,7 +795,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Demonstration of an Oxyfuel Combustion System (Project Completed)",
+        "title": "Demonstration of an Oxy-fuel Combustion System (Project Completed)",
         "lead_nominator": "United Kingdom",
         "nominator": "France",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#DemonstrationofOxyfuel",
@@ -813,8 +813,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lacq CO2 Capture and Storage Project (Project Completed)",
-        "lead_nominator": "France",
+        "title": "Lacq Carbon Dioxide (CO2) Capture and Storage Project (Project Completed)",
+        "lead_nominator": "Canada",
         "nominator": "Canada",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#Lacq",
         "status": "completed"
@@ -831,7 +831,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CO2 Capture Project - Phase 2 (Project Completed)",
+        "title": "Carbon Dioxide (CO2) Capture Project - Phase 2 (Project Completed)",
         "lead_nominator": "United Kingdom",
         "nominator": "Italy, Norway, and United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CO2CapturePhase2",
@@ -849,8 +849,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CO2 Field Lab Project (Project Completed)",
-        "lead_nominator": "United States",
+        "title": "Carbon Dioxide (CO2) Field Lab Project (Project Completed)",
+        "lead_nominator": "Norway",
         "nominator": "France, and United Kingdom",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CO2Field",
         "status": "completed"
@@ -867,7 +867,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "SaskPower Integrated CCS Demonstration Project at Boundary Dam Unit 3",
+        "title": "SaskPower Integrated Carbon Capture and Storage Demonstration Project at Boundary Dam Unit 3",
         "lead_nominator": "Canada",
         "nominator": "United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#SaskBoundaryDam3",
@@ -885,8 +885,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "SECARB Early Test at Cranfield Project",
-        "lead_nominator": "United States",
+        "title": "Southeast Regional Carbon Sequestration (SECARB) Partnership Early Test at Cranfield Project",
+        "lead_nominator": "Canada",
         "nominator": "Canada, and United Kingdom",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#SECARB",
         "status": "active"
@@ -894,7 +894,7 @@
       "geometry": {
         "coordinates": [
           -89.96089,
-          32.588449
+          32.588448
         ],
         "type": "Point"
       },
@@ -903,8 +903,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CO2 Separation from Pressurized Gas Stream",
-        "lead_nominator": "Japan",
+        "title": "Carbon Dioxide (CO2) Separation from Pressurized Gas Stream",
+        "lead_nominator": "Australia",
         "nominator": "United States",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CO2Separation",
         "status": "active"
@@ -921,8 +921,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CCS Rotterdam",
-        "lead_nominator": "Netherlands",
+        "title": "Carbon Capture and Storage (CCS) Rotterdam",
+        "lead_nominator": "Canada",
         "nominator": "Norway",
         "url": "https://www.cslforum.org/cslf/Projects/Summaries#CCSRotterdam",
         "status": "active"
