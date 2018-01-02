@@ -59,7 +59,7 @@
       "properties": {
         "title": "Al Reyadah Carbon Capture, Use, and Storage (CCUS) Project",
         "status": "active",
-        "url": "United States",
+        "url": "https://www.cslforum.org/cslf/Projects/AlReyadah",
         "lead_nominator": "United Arab Emirates",
         "nominator": "Australia, Canada, China, Netherlands, Norway, Saudi Arabia, South Africa, United Kingdom, and United States"
       },
@@ -169,7 +169,7 @@
         "lead_nominator": "Canada",
         "nominator": "United Kingdom and United States",
         "url": "https://www.cslforum.org/cslf/Projects/AlbertaEnhancedCBM",
-        "status": "active"
+        "status": "completed"
       },
       "geometry": {
         "coordinates": [
@@ -219,7 +219,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CarbonNet Project",
+        "title": "South West Hub Project",
         "lead_nominator": "Australia",
         "nominator": "United States and Canada",
         "url": "https://www.cslforum.org/cslf/Projects/SouthWestHub",
@@ -277,7 +277,7 @@
         "lead_nominator": "Japan",
         "nominator": "Australia, Canada, France, Norway, Saudi arabia, the United Kingdom, and the United States",
         "url": "https://www.cslforum.org/cslf/Projects/Tomakomai",
-        "status": "completed"
+        "status": "active"
       },
       "geometry": {
         "coordinates": [
@@ -457,7 +457,7 @@
         "lead_nominator": "United States",
         "nominator": "Australia",
         "url": "https://www.cslforum.org/cslf/Projects/Frio",
-        "status": "Australia, Canada, China, Netherlands, Norway, Saudi Arabia, South Africa, United Kingdom, and United States"
+        "status": "completed"
       },
       "geometry": {
         "coordinates": [
@@ -491,7 +491,7 @@
       "properties": {
         "title": "NET Power 50 Megawatts thermal (MWth) Allam Cycle Demonstration Project",
         "lead_nominator": "United States",
-        "nominator": "Japan, Saudi Arabia, and the United States",
+        "nominator": "Japan, Saudi Arabia, and United Kingdom",
         "url": "https://www.cslforum.org/cslf/Projects/NETPower",
         "status": "active"
       },
@@ -817,7 +817,7 @@
         "lead_nominator": "United Kingdom",
         "nominator": "France",
         "url": "https://www.cslforum.org/cslf/Projects/DemoOxyFuel",
-        "status": "Australia, Canada, China, Netherlands, Norway, Saudi Arabia, South Africa, United Kingdom, and United States"
+        "status": "completed"
       },
       "geometry": {
         "coordinates": [
@@ -852,7 +852,7 @@
         "title": "Carbon Dioxide (CO2) Capture Project - Phase 2 (Project Completed)",
         "lead_nominator": "United Kingdom",
         "nominator": "Italy, Norway, and United States",
-        "url": "https://www.cslforum.org/cslf/Projects/Summaries#CO2CapturePhase2",
+        "url": "https://www.cslforum.org/cslf/Projects/CO2CapturePhase2",
         "status": "completed"
       },
       "geometry": {
