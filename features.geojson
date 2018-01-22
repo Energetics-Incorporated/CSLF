@@ -543,6 +543,24 @@
     {
       "type": "Feature",
       "properties": {
+        "lead_nominator": "Australia",
+        "nominator": "Canada, France, Mexico, Norway, and United Kingdom",
+        "status": "active",
+        "title": "CO2CRC Otway Project, Stage 3",
+        "url": "https://www.cslforum.org/cslf/Projects/Otway3"
+      },
+      "geometry": {
+        "coordinates": [
+          142.982969,
+          -38.510874
+        ],
+        "type": "Point"
+      },
+      "id": "864b9fd7b65dbdd37e327dff2fd91d15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Norcem Carbon Dioxode (CO2) Capture Project (Project Completed)",
         "lead_nominator": "Norway",
         "nominator": "Germany",
