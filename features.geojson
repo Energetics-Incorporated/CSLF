@@ -561,6 +561,23 @@
     {
       "type": "Feature",
       "properties": {
+        "lead_nominator": "Italy",
+        "nominator": "Australia, Canada, France, Netherlands, Norway, Romania, United Kingdom",
+        "status": "active",
+        "title": "Enabling Onshore CO2 Storage in Europe (ENOS)"
+      },
+      "geometry": {
+        "coordinates": [
+          12.81041,
+          42.715885
+        ],
+        "type": "Point"
+      },
+      "id": "888b54da7baa937c55620f80e3b08356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Norcem Carbon Dioxode (CO2) Capture Project (Project Completed)",
         "lead_nominator": "Norway",
         "nominator": "Germany",
