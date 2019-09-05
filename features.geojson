@@ -291,24 +291,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kemper County Energy Facility",
-        "lead_nominator": "United States",
-        "nominator": "Canada",
-        "url": "https://www.cslforum.org/cslf/Projects/Kemper",
-        "status": "Australia, Canada, China, Netherlands, Norway, Saudi Arabia, South Africa, United Kingdom, and United States"
-      },
-      "geometry": {
-        "coordinates": [
-          -89.062965,
-          31.676007
-        ],
-        "type": "Point"
-      },
-      "id": "46e5d2645d78dd2c47aca95a70670599"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Oxy-Combustion of Heavy Liquid Fuels Project",
         "lead_nominator": "Saudi Arabia",
         "nominator": "United States",
