@@ -953,24 +953,6 @@
         "type": "Point"
       },
       "id": "f24cb4f102cc41ba1c764ee35dd711bc"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Carbon Capture and Storage (CCS) Rotterdam",
-        "lead_nominator": "Netherlands",
-        "nominator": "Norway",
-        "url": "https://www.cslforum.org/cslf/Projects/CCSRotterdam",
-        "status": "active"
-      },
-      "geometry": {
-        "coordinates": [
-          3.983177,
-          51.516251
-        ],
-        "type": "Point"
-      },
-      "id": "fab5ae7495d9ca1cf0078fc723f335a0"
     }
   ],
   "type": "FeatureCollection"
